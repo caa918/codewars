@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 // Solution by Chad Adam
-=======
-// Solution by Chad ADam
->>>>>>> 5b1026f (Additional katas)
-=======
-// Solution by Chad Adam
->>>>>>> 41b4988 (Fixed typos)
 // Kata Link:  https://www.codewars.com/kata/55ccdf1512938ce3ac000056
 
 function isLockNessMonster(s) {
